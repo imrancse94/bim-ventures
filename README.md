@@ -1,6 +1,6 @@
 ## Project Setup
 
-1. git clone 
+1. ``git clone https://github.com/imrancse94/bim-ventures.git`` 
 2. ``cp .env.example .env``
 3. Configure DB and put DB credential into .env file.
 4. Run ``composer update``
