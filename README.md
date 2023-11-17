@@ -24,3 +24,7 @@ password: 123456
 ### API Refference
 
 https://documenter.getpostman.com/view/3501446/2s9YXpWKCt
+
+### Need to set cronjob for transaction status update
+
+``php artisan update:transactionStatus``
